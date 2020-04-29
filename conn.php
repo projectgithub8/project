@@ -1,6 +1,6 @@
 <?php
 $host = "127.0.0.1";
-$user = "root";
+$user = "root";กก
 $pass = "";
 $db = "year";
 $conn = new mysqli($host,$user,$pass,$db);
