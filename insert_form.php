@@ -22,7 +22,7 @@
 		<td> <input type="submit" value="บันทึก">
 			 <input type="reset" value="ยกเลิก"><br> </td></tr>
 	</table> <br>
-</form>
+</form> บาสหน้าหีจริงๆ
 </body>
 </html>
 
