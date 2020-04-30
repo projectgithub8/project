@@ -109,7 +109,7 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 							<?php
 									}
 							?>
-						</tbody>
+						</tbody>55555555
 					</table>
 					<div id="pagination_controls"><?php echo $paginationCtrls; ?></div>
 				</div>
@@ -125,4 +125,4 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 	https://www.sourcecodester.com/tutorials/php/11606/simple-pagination-using-phpmysqli.html
 
 	-->
-	<a href="insert_form.php"><center>เพิ่มข้อมูล</center></a>55555
+	<a href="insert_form.php"><center>เพิ่มข้อมูล</center></a>
