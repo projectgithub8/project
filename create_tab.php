@@ -1,5 +1,5 @@
 <?php
-include_once('conn.php');
+include_once('conn.php');//1234
 $sql = "CREATE TABLE course (Course_id int(10) NOT NULL auto_increment
 		,Course_name varchar(20)NOT NULL
 		,Course_price varchar(10)NOT NULL
