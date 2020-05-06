@@ -109,7 +109,7 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 							<?php
 									}
 							?>
-						</tbody>55555555555555SSS
+						</tbody>
 					</table>
 					<div id="pagination_controls"><?php echo $paginationCtrls; ?></div>
 				</div>
